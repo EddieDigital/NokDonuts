@@ -1,45 +1,46 @@
-.facebookIcon{
+.facebookIcon {
   height: 2rem;
   width: 2rem;
 }
 
-.instagramIcon{
+.instagramIcon {
   height: 2rem;
   width: 2rem;
 }
 
-.nav-item{
+.nav-item {
   margin: 0px 10px 0px 10px;
 }
-.home-page{
+
+.home-page {
   margin-left: 200px;
 }
-.navbar{
+
+.navbar {
   z-index: 1;
 }
 
-.nokDonutLogo{
+.nokDonutLogo {
   float: left;
   margin-right: 15%;
 }
 
-.eggs{
+.eggs {
   float: right;
   width: 15rem;
   height: auto;
   margin-left: 4%;
 }
 
-.vanilla{
+.vanilla {
   position: absolute;
   width: 10rem;
   height: auto;
   right: 12px;
   margin-top: 25px;
-
 }
 
-.salt{
+.salt {
   width: 10rem;
   height: auto;
   float: right;
@@ -47,55 +48,54 @@
   margin-top: 10px;
 }
 
-.shop{
+.shop {
   width: 25rem;
   height: auto;
   float: left;
   margin-right: 4%;
 }
 
-.menuStarting{
+.menuStarting {
   text-align: center;
 }
 
-.menuInfo{
+.menuInfo {
   font-size: 5rem;
-  font-family: Niconne,cursive;
+  font-family: Niconne, cursive;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
-.cakeDonuts{
+.cakeDonuts {
   margin-left: 5%;
 }
 
-.hotBeverages{
+.hotBeverages {
   margin-left: 5%;
 }
 
-.donutPic{
+.donutPic {
   margin-bottom: 30px;
   height: auto;
   width: 100px;
 }
 
-.donutType{
+.donutType {
   text-align: center;
   margin-bottom: 50px;
 }
 
-.hidden{
+.hidden {
   display: none;
 }
 
-p{
+p {
   font-size: 1.1rem;
-line-height: 1.7;
-font-family: Comfortaa;
+  line-height: 1.7;
+  font-family: Comfortaa;
 }
 
-
-h1{
+h1 {
   font-size: 3.5rem;
   font-family: monospace;
   margin-bottom: 10%;
@@ -103,28 +103,28 @@ h1{
   margin-top: 10px;
 }
 
-body{
+body {
   background-color: #FDFD69;
 }
 
-h6{
+h6 {
   font-family: Comfortaa;
   font-size: 1rem;
 }
 
-h2{
+h2 {
   font-family: Niconne, cursive;
   font-size: 3rem;
 }
 
-.noPic{
+.noPic {
   margin-bottom: 30px;
 }
 
-#bottomLine{
+#bottomLine {
   margin-bottom: 10px;
 }
 
-.hotBeverages{
+.hotBeverages {
   margin-bottom: 60px;
 }
