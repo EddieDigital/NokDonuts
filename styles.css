@@ -1,0 +1,146 @@
+
+h3{
+  font-size: 1.3rem;
+
+}
+
+
+.nav-item{
+  margin: 0px 10px 0px 10px;
+}
+.home-page{
+  margin-left: 200px;
+}
+.navbar{
+  z-index: 1;
+}
+
+.facebookIcon{
+  height: 2rem;
+  width: 2rem;
+}
+
+.instagramIcon{
+  height: 2rem;
+  width: 2rem;
+}
+
+.nokDonutLogo{
+  position: absolute;
+}
+
+.headingVideo{
+  height: 650px;
+  overflow: clip;
+}
+
+#donutVideo{
+  min-width: 100%;
+  min-height: 100px;
+  padding-bottom: 200rem;
+}
+
+.announcements{
+  padding-top: 80px;
+  text-align: center;
+  background-color: #FDFD69;
+}
+
+#announcementItems{
+  padding-top: 60px;
+}
+
+.newsFeed{
+  margin-top: 40px;
+  font-size: 1.5rem;
+  font-family: cursive;
+}
+
+.announcementImage{
+  border-radius: 50%;
+  padding-top: 20px;
+  height: 20rem;
+  width: 20rem;
+}
+
+.donutEmoji{
+  height:3.5rem;
+  width:3.5rem;
+}
+
+.carousel-item{
+  height: 500px;
+  background-color: #FDFD69;
+}
+
+.headingTexts{
+  font-size: 3.5rem;
+  font-family: Niconne,fantasy;
+}
+
+#infoAndContact{
+  background-color: #DFE69F;
+  text-align: center;
+  padding-top: 90px;
+  padding-bottom: 30px;
+}
+
+.bottomText{
+  margin-left: 40px;
+  margin-top: 10%;
+  font-family: Comfortaa,fantasy;
+}
+
+.bottomTextTwo{
+  margin-top: 10px;
+  font-family: Comfortaa,fantasy;
+  margin-left: 40px;
+}
+
+.locationImage{
+  margin-top: 40px;
+  width: 450px;
+  length: 450px;
+}
+
+.miniHeaderTexts{
+  font-family: cursive;
+  font-size: 1.5rem;
+  color: #666666;
+  margin-top: 10%;
+}
+
+.informationText{
+  text-align: left;
+}
+
+.leftMargin{
+  margin-left: 40%;
+}
+
+.credit{
+  top: 11px;
+  position: relative;
+  font-size: 0.8rem;
+  font-family: monospace;
+}
+
+.bottomSection{
+  height: 50px;
+  background-color: #FDFD69;
+  text-align: center;
+}
+
+.eddieDigital{
+  width: 120px;
+  height: auto;
+}
+/*
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+*/
