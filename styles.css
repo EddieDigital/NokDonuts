@@ -29,14 +29,14 @@ h3{
   position: absolute;
 }
 
-.headingVideo{
+.headingPicture{
   height: 650px;
   overflow: clip;
 }
 
-#donutVideo{
+#donutPicture{
   min-width: 100%;
-  min-height: 100px;
+  min-height: 100%;
   padding-bottom: 200rem;
 }
 
